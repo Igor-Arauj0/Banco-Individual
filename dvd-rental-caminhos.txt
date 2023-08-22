@@ -1,6 +1,0 @@
---film -> language
---film -> film_actor -> actor
---film -> inventory -> rental -> payment
-	                                  -- -> staff -> store -> address - > city -> country
-																   -- -> customer -> rental
-																   
