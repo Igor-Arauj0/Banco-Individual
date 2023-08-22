@@ -8,7 +8,14 @@
 Esse projeto foi fetito com base em uma relação cliente-cartão, na qual 1 cliente usa 1 cartão.
 
 
-## Referência
+## Diagramas
+
+![Diagramas](https://github.com/Igor-Arauj0/Banco-Individual/assets/141196147/09bcfaa3-89ab-4756-8392-f294f34679f9)
+
+
+## Referências
+
+Aplicativos utilizados:
 
  - [Dbeaver](https://dbeaver.io/download/)
  - [git](https://git-scm.com/downloads)
@@ -20,6 +27,4 @@ Esse projeto foi fetito com base em uma relação cliente-cartão, na qual 1 cli
 - [@Igor-Araujo](https://github.com/Igor-Arauj0)
 
 
-## Diagrama
 
-![Diagramas](https://github.com/Igor-Arauj0/Banco-Individual/assets/141196147/09bcfaa3-89ab-4756-8392-f294f34679f9)
