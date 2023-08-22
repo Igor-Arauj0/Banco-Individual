@@ -1,4 +1,5 @@
-file:///C:/dev/BancodeDados/Banco-Individual/Banco%20individual/Banco_tec.png
+
+![Banco_tec](https://github.com/Igor-Arauj0/Banco-Individual/assets/141196147/229dd448-f13d-479c-a05f-58d34c4bd2c0)
 
 
 
@@ -21,4 +22,4 @@ Esse projeto foi fetito com base em uma relação cliente-cartão, na qual 1 cli
 
 ## Diagrama
 
-C:\dev\BancodeDados\Banco-Individual\Banco individual\Diagramas.png
+![Diagramas](https://github.com/Igor-Arauj0/Banco-Individual/assets/141196147/09bcfaa3-89ab-4756-8392-f294f34679f9)
